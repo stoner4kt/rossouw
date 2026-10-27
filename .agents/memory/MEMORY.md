@@ -1,0 +1,1 @@
+- [Rossouw & Co. contact accuracy](rossouw-co-contact.md) — Use the supplied Retreat address; do not reuse unverified older Lakeside contact details.
